@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.4cbb29dd.css",
-    "main.js": "/static/js/main.76538ead.js",
-    "index.html": "/index.html",
-    "main.4cbb29dd.css.map": "/static/css/main.4cbb29dd.css.map",
-    "main.76538ead.js.map": "/static/js/main.76538ead.js.map"
+    "main.css": "/children-drawing.new-variables.github.io/static/css/main.4cbb29dd.css",
+    "main.js": "/children-drawing.new-variables.github.io/static/js/main.76538ead.js",
+    "index.html": "/children-drawing.new-variables.github.io/index.html",
+    "main.4cbb29dd.css.map": "/children-drawing.new-variables.github.io/static/css/main.4cbb29dd.css.map",
+    "main.76538ead.js.map": "/children-drawing.new-variables.github.io/static/js/main.76538ead.js.map"
   },
   "entrypoints": [
     "static/css/main.4cbb29dd.css",
